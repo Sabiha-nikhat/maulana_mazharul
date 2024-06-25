@@ -8,6 +8,7 @@
 Persian University, Patna :: Home Page</title>
       <link rel="stylesheet" href="<?php echo base_url(); ?>css/linearicons.css">
       <link rel="stylesheet" href="<?php echo base_url(); ?>css/font-awesome.min.css">
+      <!-- <link rel="stylesheet" href="<?php echo base_url(); ?>css/style.css"> -->
       <link rel="stylesheet" href="<?php echo base_url(); ?>css/bootstrap.css">
       <link rel="stylesheet" href="<?php echo base_url(); ?>css/bootstrap.min.css">
       <link rel="stylesheet" href="<?php echo base_url(); ?>css/magnific-popup.css">
@@ -116,13 +117,13 @@ Persian University, Patna :: Home Page</title>
                                  <a href="<?php echo base_url(); ?>frontend/school_of_commerce_management_sciences"> P.G. Departments</a>
                                  <ul>
                                     <li><a href="<?php echo base_url(); ?>frontend/department_of_commerce">Department of Arabic</a></li>
-                                    <li><a href="<?php echo base_url(); ?>frontend/department_of_commerce">Department Of Persian</a></li>
+                                    <li><a href="<?php echo base_url(); ?>frontend/department_of_commerce">Department of Persian</a></li>
                                     <li><a href="<?php echo base_url(); ?>frontend/department_of_commerce">Department of Urdu</a></li>
                                     <li><a href="<?php echo base_url(); ?>frontend/department_of_commerce">Department of Islamic Studies</a></li>
                                     <li><a href="<?php echo base_url(); ?>frontend/department_of_commerce">Department of English</a></li>
-                                    <li><a href="<?php echo base_url(); ?>frontend/department_of_commerce">Department Of Management</a></li>
+                                    <li><a href="<?php echo base_url(); ?>frontend/department_of_commerce">Department of Management</a></li>
                                     <li><a href="<?php echo base_url(); ?>frontend/department_of_commerce">Department of Journalism & Mass Communication</a></li>
-                                    <li><a href="<?php echo base_url(); ?>frontend/department_of_management_sciences">Department Of Education</a></li>
+                                    <li><a href="<?php echo base_url(); ?>frontend/department_of_management_sciences">Department of Education</a></li>
                                  </ul>
                               </li>
                               <li class="menu-has-children">
@@ -130,7 +131,7 @@ Persian University, Patna :: Home Page</title>
                                  <ul>
                                     <li><a href="<?php echo base_url(); ?>frontend/department_of_computer_science">Constituent</a></li>
                                     <li><a href="<?php echo base_url(); ?>frontend/department_of_library_science">Affiliated</a></li>
-                                    <li><a href="<?php echo base_url(); ?>frontend/department_of_media_studies">B.Ed</a></li>
+                                    <li><a href="<?php echo base_url(); ?>frontend/list_of_bed_college">B.Ed</a></li>
                                  </ul>
                               </li>
                               <li class="menu-has-children">
@@ -143,8 +144,8 @@ Persian University, Patna :: Home Page</title>
                               <li class="menu-has-children">
                                  <a href="<?php echo base_url(); ?>frontend/school_of_Humanities_and_Languages"> Madarsa</a>
                                  <ul>
-                                    <li><a href="<?php echo base_url(); ?>frontend/department_of_english">Alim</a></li>
-                                    <li><a href="<?php echo base_url(); ?>frontend/department_of_hindi">Fazil</a></li>
+                                    <li><a href="<?php echo base_url(); ?>frontend/department_of_english">ALIM</a></li>
+                                    <li><a href="<?php echo base_url(); ?>frontend/department_of_hindi">FAZIL</a></li>
                                   <!--   <li><a href="<?php echo base_url(); ?>frontend/department_of_sanskrit">Department of Sanskrit</a></li> -->
                                  </ul>
                               </li>

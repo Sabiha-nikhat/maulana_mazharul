@@ -75,7 +75,9 @@ $route['frontend/department_of_management_sciences'] = 'MaulanaController/depart
 $route['frontend/school_of_computational_sciences'] = 'MaulanaController/school_of_computational_sciences';
 $route['frontend/department_of_computer_science'] = 'MaulanaController/department_of_computer_science';
 $route['frontend/department_of_library_science'] = 'MaulanaController/department_of_library_science';
-$route['frontend/department_of_media_studies'] = 'MaulanaController/department_of_media_studies';
+
+$route['frontend/list_of_bed_college'] = 'MaulanaController/list_of_bed_college';
+
 $route['frontend/school_of_education'] = 'MaulanaController/school_of_education';
 $route['frontend/department_of_education'] = 'MaulanaController/department_of_education';
 $route['frontend/school_of_Humanities_and_Languages'] = 'MaulanaController/school_of_Humanities_and_Languages';

@@ -2004,12 +2004,12 @@ h6 {
 }
 
 .header-top a {
-    color: #0c1a3a;
+    color: #fff;
     font-weight: 400;
     letter-spacing: 0.1rem;
     border: 1px solid #ccc;
     padding: 2px 7px;
-    background: #fff;
+    background: #e10b0b;
 }
 
 .header-top a:hover {
@@ -6720,7 +6720,9 @@ table thead tr {
 
 .table-bordered td,
 .table-bordered th {
-    border: 1px solid #e77815;
+    border: 1px solid #dee2e6;
+    /*border: 1px solid #e77815;
+   */
 }
 
 /*.table-striped tbody tr:nth-of-type(odd) {
@@ -7230,7 +7232,8 @@ plr5 {
 
 .fourBtnBox a {
    /* background: linear-gradient(#CC640E, #DB9E0F);*/
-    background: linear-gradient(#6f42c1, #0dcaf0);
+    background: linear-gradient(#105aa7, #a4cce9);
+    /*background: linear-gradient(#105aa7, #a4cce9);*/
     color: #223A56;
     width: 100%;
     display: block;
@@ -7244,7 +7247,7 @@ plr5 {
 
 .fourBtnBox a:hover {
    /* background: linear-gradient(#DB9E0F, #CC640E);*/
-      background: linear-gradient(#6f42c1, #0dcaf0);
+      background: linear-gradient(#a4cce9, #105aa7);
 }
 
 .footerNew h4 {
@@ -7903,4 +7906,10 @@ plr5 {
 
 .parisar_pratibimb_list{
     font-size: 1.2rem;
+}
+
+.table td, .table th {
+    border-top: 0 solid #dee2e6;
+    font-size: 13px;
+    padding: .5rem
 }

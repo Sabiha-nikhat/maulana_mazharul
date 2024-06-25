@@ -110,9 +110,9 @@ class MaulanaController extends CI_Controller {
 		$this->load->view('frontend/department_of_library_science');
 	}
 
-	public function department_of_media_studies()
+	public function list_of_bed_college()
 	{	
-		$this->load->view('frontend/department_of_media_studies');
+		$this->load->view('frontend/list_of_bed_college');
 	}
 
 	public function school_of_education()
