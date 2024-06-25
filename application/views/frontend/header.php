@@ -116,6 +116,7 @@ Persian University, Patna :: Home Page</title>
                                  <a href="<?php echo base_url(); ?>frontend/school_of_commerce_management_sciences"> P.G. Departments</a>
                                  <ul>
                                     <li><a href="<?php echo base_url(); ?>frontend/department_of_commerce">Department of Arabic</a></li>
+                                    <li><a href="<?php echo base_url(); ?>frontend/department_of_commerce">Department of English</a></li>
                                     <li><a href="<?php echo base_url(); ?>frontend/department_of_management_sciences">Department of Management Sciences</a></li>
                                  </ul>
                               </li>
