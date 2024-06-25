@@ -116,49 +116,55 @@ Persian University, Patna :: Home Page</title>
                                  <a href="<?php echo base_url(); ?>frontend/school_of_commerce_management_sciences"> P.G. Departments</a>
                                  <ul>
                                     <li><a href="<?php echo base_url(); ?>frontend/department_of_commerce">Department of Arabic</a></li>
+                                    <li><a href="<?php echo base_url(); ?>frontend/department_of_commerce">Department Of Persian</a></li>
+                                    <li><a href="<?php echo base_url(); ?>frontend/department_of_commerce">Department of Urdu</a></li>
+                                    <li><a href="<?php echo base_url(); ?>frontend/department_of_commerce">Department of Islamic Studies</a></li>
                                     <li><a href="<?php echo base_url(); ?>frontend/department_of_commerce">Department of English</a></li>
-                                    <li><a href="<?php echo base_url(); ?>frontend/department_of_management_sciences">Department of Management Sciences</a></li>
+                                    <li><a href="<?php echo base_url(); ?>frontend/department_of_commerce">Department Of Management</a></li>
+                                    <li><a href="<?php echo base_url(); ?>frontend/department_of_commerce">Department of Journalism & Mass Communication</a></li>
+                                    <li><a href="<?php echo base_url(); ?>frontend/department_of_management_sciences">Department Of Education</a></li>
                                  </ul>
                               </li>
                               <li class="menu-has-children">
-                                 <a href="<?php echo base_url(); ?>frontend/school_of_computational_sciences"> School of Computational Sciences, Information<br/>and Communication Technology</a>
+                                 <a href="<?php echo base_url(); ?>frontend/school_of_computational_sciences"> Colleges</a>
                                  <ul>
-                                    <li><a href="<?php echo base_url(); ?>frontend/department_of_computer_science">Department of Computer Science &amp; Information Technology</a></li>
-                                    <li><a href="<?php echo base_url(); ?>frontend/department_of_library_science">Department of Library and Information Science</a></li>
-                                    <li><a href="<?php echo base_url(); ?>frontend/department_of_media_studies">Department of Media Studies</a></li>
+                                    <li><a href="<?php echo base_url(); ?>frontend/department_of_computer_science">Constituent</a></li>
+                                    <li><a href="<?php echo base_url(); ?>frontend/department_of_library_science">Affiliated</a></li>
+                                    <li><a href="<?php echo base_url(); ?>frontend/department_of_media_studies">B.Ed</a></li>
                                  </ul>
                               </li>
                               <li class="menu-has-children">
-                                 <a href="<?php echo base_url(); ?>frontend/school_of_education"> School of Education</a>
+                                 <a href="<?php echo base_url(); ?>frontend/school_of_education"> KRC</a>
                                  <ul>
-                                    <li><a href="<?php echo base_url(); ?>frontend/department_of_education">Department of Educational Studies</a></li>
+                                    <li><a href="<?php echo base_url(); ?>frontend/department_of_education">KRC With AICTE Recognition</a></li>
+                                    <li><a href="<?php echo base_url(); ?>frontend/department_of_education">KRC Without AICTE Recognition</a></li>
                                  </ul>
                               </li>
                               <li class="menu-has-children">
-                                 <a href="<?php echo base_url(); ?>frontend/school_of_Humanities_and_Languages"> School of Humanities & Languages</a>
+                                 <a href="<?php echo base_url(); ?>frontend/school_of_Humanities_and_Languages"> Madarsa</a>
                                  <ul>
-                                    <li><a href="<?php echo base_url(); ?>frontend/department_of_english">Department of English</a></li>
-                                    <li><a href="<?php echo base_url(); ?>frontend/department_of_hindi">Department of Hindi</a></li>
-                                    <li><a href="<?php echo base_url(); ?>frontend/department_of_sanskrit">Department of Sanskrit</a></li>
+                                    <li><a href="<?php echo base_url(); ?>frontend/department_of_english">Alim</a></li>
+                                    <li><a href="<?php echo base_url(); ?>frontend/department_of_hindi">Fazil</a></li>
+                                  <!--   <li><a href="<?php echo base_url(); ?>frontend/department_of_sanskrit">Department of Sanskrit</a></li> -->
                                  </ul>
                               </li>
-                              <li class="menu-has-children">
+                              <!-- <li class="menu-has-children">
                                  <a href="<?php echo base_url(); ?>frontend/school_of_life_sciences"> School of Life Sciences</a>
                                  <ul>
                                     <li><a href="<?php echo base_url(); ?>frontend/department_of_biotechnology">Department of Biotechnology</a></li>
                                     <li><a href="<?php echo base_url(); ?>frontend/department_of_botany">Department of Botany</a></li>
                                     <li><a href="<?php echo base_url(); ?>frontend/department_of_zoology">Department of Zoology</a></li>
                                  </ul>
-                              </li>
-                              <li class="menu-has-children">
+                              </li> -->
+                             <!--  <li class="menu-has-children">
                                  <a href="<?php echo base_url(); ?>frontend/school_of_physical_sciences"> School of Physical Sciences</a>
                                  <ul>
                                     <li><a href="<?php echo base_url(); ?>frontend/department_of_chemistry">Department of Chemistry</a></li>
                                     <li><a href="<?php echo base_url(); ?>frontend/department_of_mathematics">Department of Mathematics</a></li>
                                     <li><a href="<?php echo base_url(); ?>frontend/department_of_physics">Department of Physics</a></li>
                                  </ul>
-                              </li>
-                              <li class="menu-has-children">
+                              </li> -->
+                              <!-- <li class="menu-has-children">
                                  <a href="<?php echo base_url(); ?>frontend/school_of_social_sciences"> School of Social Sciences</a>
                                  <ul>
                                     <li><a href="<?php echo base_url(); ?>frontend/department_of_economics">Department of Economics</a></li>
@@ -167,7 +173,7 @@ Persian University, Patna :: Home Page</title>
                                     <li><a href="<?php echo base_url(); ?>frontend/department_of_social_work">Department of Social Work</a></li>
                                     <li><a href="<?php echo base_url(); ?>frontend/department_of_sociology">Department of Sociology</a></li>
                                  </ul>
-                              </li>
+                              </li> -->
                               <!--<li><a href="university_laboratories.php">University Laboratories</a></li>-->
                            </ul>
                         </li>
