@@ -22,7 +22,7 @@
                   <h6>
                      Send your comments/feedback
                   </h6>
-                  <h5><a href="mailto:webadmin@mgcub.ac.in">webadmin@mgcub.ac.in</a></h5>
+                  <h5><a href="mailto:webadmin@mgcub.ac.in">mmhapupatna@yahoo.in</a></h5>
                </div>
             </div>
          </div>
@@ -82,11 +82,11 @@
                </div>
                <div class="col-md-7 col-xs-12 text-center">
                   <div class="centerLogo"  style="margin-top: 100px;">
-                     <img src="<?php echo base_url(); ?>images/mgcubIcon.png" class="mt-20">
+                     <img src="<?php echo base_url(); ?>images/footerlogo.jpeg" class="mt-20">
                      <h3>MAULANA MAZHARUL HAQUE ARABIC AND PERSIAN UNIVERSITY</h3>
                      <h6>A State University established by an Act of Parliament</h6>
-                     <p>@Mahatma Gandhi Central University-845401, India</p>
-                     <p><a href="<?php echo base_url(); ?>">www.mgcub.ac.in</a></p>
+                     <p>Mithapur Farm Area, Mithapur,Patna-800001, India</p>
+                     <p><a href="<?php echo base_url(); ?>">mmhapu.ac.in</a></p>
                   </div>
                </div>
                <div class="col-md-3 col-xs-12">
@@ -135,7 +135,7 @@
             </div>
             <div class="row top_border mt-10">
                <div class="col-md-6 col-xs-12">
-                  <h6 class="updatedText">Updated on: <span>25 July 2023 10:30 AM</span></h6>
+                  <h6 class="updatedText">Updated on: <span>26 June 2024 10:30 AM</span></h6>
                </div>
                <div class="col-md-6 col-xs-12">
                   <h6 class="updatedText text-end">Number Visitors: <span>2405607</span></h6>
