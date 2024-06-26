@@ -1857,14 +1857,14 @@
                                  </div>
                               </div>
 
-                               <div class="whiteBox whiteBox-bg">
+                              <!--  <div class="whiteBox whiteBox-bg">
                                  <img src="<?php echo base_url(); ?>images/03.jpg" alt="Smt. Droupadi Murmu" class="img-responsive" />
                                  <div class="vcBox-content">
                                     <h5>Shri Nitish Kumar</h5>
                                     <h6>The Government of Bihar, Hon'ble Chief Minister</h6>
                                     <a href="https://state.bihar.gov.in/educationbihar/CitizenHome.html" target="_blank">Read more</a>
                                  </div>
-                              </div>
+                              </div> -->
 
                               <div class="whiteBox whiteBox-bg">
                                  <img src="<?php echo base_url(); ?>images/04.jpg" alt="Shri Dharmendra Pradhan" class="img-responsive" />
@@ -1875,10 +1875,18 @@
                                  </div>
                               </div>
                               <div class="whiteBox whiteBox-bg">
-                                 <img src="<?php echo base_url(); ?>images/Mahesh Sharma_vc.jpg" alt="Padma Shri Dr Mahesh Sharma" class="img-responsive" />
+                                 <img src="<?php echo base_url(); ?>images/09.jpeg" alt="Padma Shri Dr Mahesh Sharma" class="img-responsive" />
                                  <div class="vcBox-content">
                                     <h5>Dr. Mohammad Alamgeer </h5>
                                     <h6>Hon'ble Vice Chancellor</h6>
+                                    <a href="<?php echo base_url(); ?>chancellor">Read more</a>
+                                 </div>
+                              </div>
+                               <div class="whiteBox whiteBox-bg">
+                                 <img src="<?php echo base_url(); ?>images/08.jpeg" alt="Padma Shri Dr Mahesh Sharma" class="img-responsive" />
+                                 <div class="vcBox-content">
+                                    <h5>Col. Kamesh Kumar </h5>
+                                    <h6>Hon'ble Registrar</h6>
                                     <a href="<?php echo base_url(); ?>chancellor">Read more</a>
                                  </div>
                               </div>
