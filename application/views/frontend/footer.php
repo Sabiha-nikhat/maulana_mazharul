@@ -215,13 +215,23 @@
          //        $(window).bind("orientationchange", ScaleSlider);
          //    });
       </script>
+
+
+
+ 
       <script>
          function viewFun(id) {
              $("#g_name").val(id);
              $('#frm').submit();
          }
       </script>
-      <script type="text/javascript" src="js/eventSlider.js"></script>
+
+
+
+      <script type="text/javascript" src="js/eventSlider.js"></script> 
+
+
+
       <script>
          $(document).ready(function () {
              $('.items').slick({
