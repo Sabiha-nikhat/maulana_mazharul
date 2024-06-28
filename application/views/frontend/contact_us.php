@@ -37,16 +37,16 @@
                                 <div class="thumb-wrap relative">
                                     <div class="thumb relative">
                                         <div class="overlay overlay-bg"></div>  
-                                        <img class="img-fluid" src="<?php echo base_url(); ?>images/faculty/Sachidanand.jpg" alt="Sachidanand" style="height: 280px;">
+                                        <img class="img-fluid" src="<?php echo base_url(); ?>images/faculty/01.jpeg" alt="Sachidanand" style="height: 280px;">
                                     </div>
                                 </div>
                                 <div class="details contact-bg">
                                     <h5>
-                                        Mr Sachchidanand Singh
+                                       Er. Md. Sanaullah Khan
                                     </h5>
                                     <ul>
-                                        <li>OSD Administration / Deputy Registrar (Establishment)</li>
-                                        <li class="break-line"><i class="fa fa-envelope"></i> osdadmin@mgcub.ac.in</li>
+                                        <li>Assistant Registrar (Gen. & Exam.)</li>
+                                        <li class="break-line"><i class="fa fa-envelope"></i> sanaullah783@yahoo.co.in</li>
                                         <!-- <li><i class="fa fa-phone"></i> 9628203811</li> -->
                                     </ul>
                                 </div>
@@ -73,16 +73,16 @@
                                 <div class="thumb-wrap relative">
                                     <div class="thumb relative">
                                         <div class="overlay overlay-bg"></div>	
-                                        <img class="img-fluid" src="<?php echo base_url(); ?>images/faculty/Vikas Pareek.jpg" alt="Vikas Pareek" style="height: 280px;">
+                                        <img class="img-fluid" src="<?php echo base_url(); ?>images/faculty/02.jpeg" alt="Vikas Pareek" style="height: 280px;">
                                     </div>
                                 </div>
                                 <div class="details contact-bg">
                                     <h5>
-                                        Prof Vikas Pareek
+                                        Dr. Pankaj Kumar
                                     </h5>
                                     <ul>
-                                        <li>OSD (Finance)</li>
-                                        <li class="break-line"><i class="fa fa-envelope"></i> osdfinance@mgcub.ac.in</li>
+                                        <li>Section Officer (Gen. & Estab.)</li>
+                                        <li class="break-line"><i class="fa fa-envelope"></i> pankaj.mmhu@gmail.com</li>
                                         <!-- <li><i class="fa fa-phone"></i> 9828373081</li> -->
                                     </ul>
                                 </div>
@@ -109,17 +109,17 @@
                                 <div class="thumb-wrap relative">
                                     <div class="thumb relative">
                                         <div class="overlay overlay-bg"></div>	
-                                        <img class="img-fluid" src="<?php echo base_url(); ?>images/faculty/Shephalika Mishra.jpg" alt="Shephalika Mishra" style="height: 280px;">
+                                        <img class="img-fluid" src="<?php echo base_url(); ?>images/faculty/03.jpeg" alt="Shephalika Mishra" style="height: 280px;">
                                     </div>
                                 </div>
                                 <div class="details contact-bg">
                                     <h5>
-                                        Ms Shephalika Mishra
+                                        Dr. Nikhil Anand Giri
                                     </h5>
                                     <ul>
-                                        <li>Public Relation Officer</li>
-                                        <li class="break-line"><i class="fa fa-envelope"></i> pro@mgcub.ac.in</li>
-                                        <li><i class="fa fa-phone"></i> 9654598288</li>
+                                        <li>Assistant Professor (MJMC)</li>
+                                        <li class="break-line"><i class="fa fa-envelope"></i> nikhilanandgiri@gmail.com</li>
+                                       <!--  <li><i class="fa fa-phone"></i> 9654598288</li> -->
                                     </ul>
                                 </div>
                             </div>	
@@ -168,11 +168,11 @@
                 </section>
                 <h4>Address</h4>
                 <ul class="mb-20">
-                    <li>Mahatma Gandhi Central University,</li>
-                    <li>Dr. Ambedkar Administrative Building,</li>
-                    <li>Near OP Thana, Raghunathpur, Motihari,</li>
-                    <li>District- East Champaran</li>
-                    <li>Bihar- 845401 (INDIA)</li>
+                    <li>Maulana Mahzarul Haque Arabic & Persian University,</li>
+                   <!--  <li>Dr. Ambedkar Administrative Building,</li> -->
+                    <li>Mithapur Farm Area,</li>
+                    <li>Mithapur,</li>
+                    <li>Patna–800 001 (Bihar)</li>
                 </ul>
                 <a href="directory.php" class="btn btn-primary">Directory</a>
             </div>
